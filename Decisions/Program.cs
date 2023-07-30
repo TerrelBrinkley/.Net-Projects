@@ -25,6 +25,13 @@
                 string message = "You won a new boat!";
                 Console.WriteLine(message);
             }
+
+            else
+            {
+                string message = "Sorry, please try again";
+                Console.WriteLine(message);
+            }
+
             Console.ReadLine();
         }
     }
