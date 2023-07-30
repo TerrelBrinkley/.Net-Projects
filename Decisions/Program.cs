@@ -14,6 +14,17 @@
                 Console.WriteLine(message);
             }
 
+            else if (userValue == "2") 
+            {
+                string message = "You won a new house!";
+                Console.WriteLine(message);
+            }
+
+            else if (userValue == "3")
+            {
+                string message = "You won a new boat!";
+                Console.WriteLine(message);
+            }
             Console.ReadLine();
         }
     }
