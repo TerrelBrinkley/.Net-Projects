@@ -14,7 +14,7 @@
                 Console.WriteLine(message);
             }
 
-            else if (userValue == "2") 
+            else if (userValue == "2")
             {
                 string message = "You won a new house!";
                 Console.WriteLine(message);
@@ -23,6 +23,12 @@
             else if (userValue == "3")
             {
                 string message = "You won a new boat!";
+                Console.WriteLine(message);
+            }
+
+            else if (userValue == "4")
+            {
+                string message = "You won a new plane!";
                 Console.WriteLine(message);
             }
 
