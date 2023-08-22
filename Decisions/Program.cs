@@ -35,7 +35,7 @@
             Console.Write("Choose a door: 1, 2 or 3: ");
             string userValue = Console.ReadLine();
 
-            string message = (userValue == "1") ? "boat" : "strand of lint";
+            string message = (userValue == "1") ? "BRAND NEW CAR!" : "strand of lint";
 
             //Console.Write("You won a ");
             //Console.Write(message);
