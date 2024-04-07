@@ -30,7 +30,14 @@
             Console.WriteLine("Type your last name: ");
             string myLastName = Console.ReadLine();
 
-            Console.WriteLine("Hello, " + myFirstName + " " + myLastName);
+            /* sting nickname;
+            Console.Write("Type your nickname: ");
+            nickname = Console.ReadLine(); */
+
+            Console.WriteLine("Type your nickname: ");
+            string myNickname = Console.ReadLine();
+
+            Console.WriteLine("Hello, " + myFirstName + " " + myLastName + " " + "aka" + " " + myNickname);
             Console.ReadLine();
         }
     }
