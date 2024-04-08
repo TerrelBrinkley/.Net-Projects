@@ -20,21 +20,21 @@
             string myFirstName;
             myFirstName = Console.ReadLine(); */
 
-            Console.WriteLine("Type your first name: ");
+            Console.WriteLine("Type your First Name: ");
             string myFirstName = Console.ReadLine();
 
             /* string myLastName;
             Console.Write("Type your last name: ");
             myLastName = Console.ReadLine(); */
 
-            Console.WriteLine("Type your last name: ");
+            Console.WriteLine("Type your Last Name: ");
             string myLastName = Console.ReadLine();
 
             /* sting nickname;
             Console.Write("Type your nickname: ");
             nickname = Console.ReadLine(); */
 
-            Console.WriteLine("Type your nickname: ");
+            Console.WriteLine("Type your Nickname: ");
             string myNickname = Console.ReadLine();
 
             Console.WriteLine("Hello, " + myFirstName + " " + myLastName + " " + "aka" + " " + myNickname);
