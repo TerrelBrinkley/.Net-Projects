@@ -30,7 +30,7 @@
             Console.WriteLine("Type your Last Name: ");
             string myLastName = Console.ReadLine();
 
-            /* sting nickname;
+            /* sting myNickname;
             Console.Write("Type your nickname: ");
             nickname = Console.ReadLine(); */
 
